@@ -6,4 +6,10 @@ body {
 #red {
   /* this selects any elements with the red id */
   border-top-color: #f00;
+  border-color: #ffa500;
+  border-color: #ff0;
+  border-color: #00bc3f;
+  border-color: #06f;
+  border-color: #8a2be2;
+  border-bottom-color: #d300c9;
 }
